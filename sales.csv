@@ -1,0 +1,10 @@
+SAMPLE DATASET
+Date,Product,Quantity,Price
+2024-01-01,Soap,10,40
+2024-01-01,Shampoo,5,180
+2024-01-02,Soap,7,40
+2024-01-02,Oil,3,120
+2024-01-03,Shampoo,8,180
+2024-01-03,Oil,4,120
+2024-01-04,Soap,6,40
+2024-01-04,Shampoo,4,180
